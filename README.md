@@ -1,4 +1,4 @@
- #  **Hello Folks! I'm Priyanka Sharma**
+ # **Hello👋 Folks! I'm Priyanka Sharma**
  </br>
 - 👀 Interested in Front End Development.
 </br>
@@ -35,7 +35,7 @@
 <div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1551&" alt="priyanka1551" /></p></div>
 </br></br></br> </br></br> </br></br></br></br>
 <div><p align="left">
-<h2> Thanks for visiting my profile, see you next time!!</h2>
+<h2> Thanks🙏 for visiting my profile, see you next time!!</h2>
 </p></div>
 
 
