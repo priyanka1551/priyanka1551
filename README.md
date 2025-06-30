@@ -1,10 +1,10 @@
  # **Hello👋 Folks! I'm Priyanka Sharma**
  </br>
-- 👀 Interested in Front End Development.
+- 👀 Currently a Backend Developer.
 </br>
 - 🌱 Currently solving problems on Leetcode in Java and learning NextJS.
 </br>
-- 💞️ Looking to collaborate on Web development projects.
+- 💞️ Looking to collaborate on Springboot projects.
 </br>
 - 📫 How to reach me https://www.linkedin.com/in/priyanka-sharma-0bb869230/. 
 </br>
